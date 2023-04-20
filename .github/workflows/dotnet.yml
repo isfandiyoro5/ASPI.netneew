@@ -25,4 +25,4 @@ jobs:
     - name: Build
       run: dotnet build ./IntroAPI
     - name: Test
-      run: dotnet test ./IntroAPi/IntroAPI
+      run: dotnet test ./IntroAPi/ASPI.netneew
